@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1405488199 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluar.cpp
+	<iostream>
+	<queue>
+
+1405490156 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<queue>
+
+1405487385 /home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluar.cpp
+	<iostream>
+	<queue>
+
+1405490187 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluador.cpp
+	"Evaluador.h"
+
+1405489166 /home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluador.h
+	<iostream>
+	<queue>
+
+1412493985 source:/home/turupawn/Projects/Codeblocks/Clases/Estructura/Tarea1/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<stack>
+
+1412493617 /home/turupawn/Projects/Codeblocks/Clases/Estructura/Tarea1/Evaluador.h
+	<iostream>
+	<stack>
+
+1412493650 source:/home/turupawn/Projects/Codeblocks/Clases/Estructura/Tarea1/Evaluador.cpp
+	"Evaluador.h"
+
+1412743555 source:/root/Github/EstructuraTarea1/Evaluador.cpp
+	"Evaluador.h"
+
+1412743555 /root/Github/EstructuraTarea1/Evaluador.h
+	<iostream>
+	<stack>
+
+1413480024 source:c:\users\usuario1\desktop\tarea1_estructura-master\tarea1_estructura-master\evaluador.cpp
+	"Evaluador.h"
+
+1413480024 c:\users\usuario1\desktop\tarea1_estructura-master\tarea1_estructura-master\evaluador.h
+	<iostream>
+	<stack>
+
+1413480024 source:c:\users\usuario1\desktop\tarea1_estructura-master\tarea1_estructura-master\main.cpp
+	"Evaluador.h"
+	<iostream>
+	<stack>
+
